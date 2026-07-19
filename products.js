@@ -1,4 +1,4 @@
-/* auto-generated: 2026-07-12T20:44:30.534Z / 717 products */
+/* auto-generated: 2026-07-19T20:48:25.209Z / 717 products */
 const SHOP_BASE = "https://www.frp-craft.shop";
 const MODELS = [
  {
@@ -572,11 +572,11 @@ const PRODUCTS = [
   {"id":625,"name":"フロントバンパーカバーセット 【VB】【GT-DRY】","code":"st790","price":48000,"models":["VB"],"cat":"gtdry","img":"20221222_4ffdc3.jpg","soldout":true},
   {"id":624,"name":"ボンネットバルジカバー 【VN/VB】【GT-DRY】","code":"st776","price":53300,"models":["VN","VB"],"cat":"gtdry","img":"20221222_efe5e4.jpg","soldout":true},
   {"id":623,"name":"フューエルキャップカバー 【汎用】【GT-DRY】","code":"fuel-cap-su","price":3575,"models":["ALL"],"cat":"goods","img":"20221213_7ff6e8.jpg","soldout":true},
-  {"id":622,"name":"名もなきシリーズ　輝くコーティング剤300ml 【名もなき】【リアル】","code":"20095-24","price":3993,"models":["ALL"],"cat":"chemical","img":"20221213_a20b51.jpg"},
-  {"id":621,"name":"名もなきシリーズ　ガラス撥水剤180ml 【名もなき】【リアル】","code":"20095-23","price":3993,"models":["ALL"],"cat":"chemical","img":"20221213_61fe83.jpg"},
-  {"id":620,"name":"名もなきシリーズ　撥水シャンプー500ml 【名もなき】【リアル】","code":"20095-22","price":3993,"models":["ALL"],"cat":"chemical","img":"20221213_92db08.jpg"},
-  {"id":619,"name":"名もなきシリーズ　水垢取り剤500ml 【名もなき】【リアル】","code":"20095-21","price":3993,"models":["ALL"],"cat":"chemical","img":"20221213_e3d70a.jpg"},
-  {"id":618,"name":"名もなきシリーズ　鉄粉除去剤500ml 【名もなき】【リアル】","code":"20095-20","price":3993,"models":["ALL"],"cat":"chemical","img":"20221213_231fce.jpg","soldout":true},
+  {"id":622,"name":"名もなきシリーズ　輝くコーティング剤300ml 【名もなき】【GBR】","code":"20095-24","price":3993,"models":["ALL"],"cat":"chemical","img":"20221213_a20b51.jpg"},
+  {"id":621,"name":"名もなきシリーズ　ガラス撥水剤180ml 【名もなき】【GBR】","code":"20095-23","price":3993,"models":["ALL"],"cat":"chemical","img":"20221213_61fe83.jpg"},
+  {"id":620,"name":"名もなきシリーズ　撥水シャンプー500ml 【名もなき】【GBR】","code":"20095-22","price":3993,"models":["ALL"],"cat":"chemical","img":"20221213_92db08.jpg"},
+  {"id":619,"name":"名もなきシリーズ　水垢取り剤500ml 【名もなき】【GBR】","code":"20095-21","price":3993,"models":["ALL"],"cat":"chemical","img":"20221213_e3d70a.jpg"},
+  {"id":618,"name":"名もなきシリーズ　鉄粉除去剤500ml 【名もなき】【GBR】","code":"20095-20","price":3993,"models":["ALL"],"cat":"chemical","img":"20221213_231fce.jpg","soldout":true},
   {"id":611,"name":"S-CRAFT缶 エンジンオイル0w-30 【汎用】","code":"20107","price":11000,"models":["ALL"],"cat":"chemical","img":"20240405_653250.jpg"},
   {"id":610,"name":"アイスワイヤー 【汎用】【ICE FUSE】","code":"IFIWHE-","price":14960,"models":["ALL"],"cat":"led","img":"20220821_9bfe30.jpg","soldout":true},
   {"id":609,"name":"6LED汎用フットランプ【汎用】【GT-DRY】","code":"al-foot-lamp-6led-4706","price":3930,"models":["ALL"],"cat":"led","img":"20220802_aa3098.jpg","soldout":true},
@@ -710,8 +710,8 @@ const PRODUCTS = [
   {"id":456,"name":"フロントグリル＆エンブレムカバー 【VN】【GT-DRY】","code":"st690-st312-emblem","price":33000,"models":["VN"],"cat":"gtdry","img":"20211214_1485a0.jpg","soldout":true},
   {"id":455,"name":"EFP（エンジンルーム・フェンダー・プロテクター）【VN/VB】【GT-DRY】","code":"st691","price":48400,"models":["VN","VB"],"cat":"gtdry","img":"20250215_50f419.jpg","soldout":true},
   {"id":454,"name":"【中古】リヤウイング【BRZ】","price":50000,"models":["ALL"],"cat":"used","img":"20211209_22c48e.jpg","soldout":true},
-  {"id":453,"name":"名もなきシリーズ　ガラス撥水剤 お試しボトル【名もなき】【リアル】","code":"20095-11","price":1100,"models":["ALL"],"cat":"chemical","img":"20211029_ed5dc5.jpg"},
-  {"id":452,"name":"名もなきシリーズ　輝くコーティング剤 お試しボトル【名もなき】【リアル】","code":"20095-10","price":1100,"models":["ALL"],"cat":"chemical","img":"20211029_128ecb.jpg"},
+  {"id":453,"name":"名もなきシリーズ　ガラス撥水剤 お試しボトル【名もなき】【GBR】","code":"20095-11","price":1100,"models":["ALL"],"cat":"chemical","img":"20211029_ed5dc5.jpg"},
+  {"id":452,"name":"名もなきシリーズ　輝くコーティング剤 お試しボトル【名もなき】【GBR】","code":"20095-10","price":1100,"models":["ALL"],"cat":"chemical","img":"20211029_128ecb.jpg"},
   {"id":451,"name":"シーケンシャルライナー V3【VA】 【SHINING SPEED】","code":"20084VA","price":55000,"models":["VA"],"cat":"led","img":"20211020_25ad70.jpg"},
   {"id":450,"name":"ドアミラーカバー Type-2【VN/VB】【GT-DRY】","code":"st679","price":34900,"models":["VN","VB"],"cat":"gtdry","img":"20220608_b59ca2.jpg","soldout":true},
   {"id":448,"name":"フォグランプカバー 【VN】【GT-DRY】","code":"st670a","price":57200,"models":["VN"],"cat":"gtdry","img":"20210907_a16bac.jpg","soldout":true},
@@ -768,9 +768,9 @@ const PRODUCTS = [
   {"id":395,"name":"ＮＥＮＣスポーツセレクター【VA/VM/SK/SJ/GJ/GP/GK/GT】【NENC】","code":"20091","price":115500,"models":["VM","VA","GKGT","GJGP","SK"],"cat":"goods","img":"20210508_180674.jpg"},
   {"id":394,"name":"S-craft オリジナルＴシャツ","code":"20079","price":3190,"models":["ALL"],"cat":"goods","img":"20210508_5f723e.jpg","soldout":true},
   {"id":393,"name":"シートベルトパット（S-CRAFTロゴ入り）","code":"20093","price":3850,"models":["ALL"],"cat":"goods","img":"20210508_3f106d.jpg"},
-  {"id":384,"name":"名もなきシリーズ　180ml完璧5本セット　施工キット付き【名もなき】【リアル】","code":"20095-9","price":18700,"models":["ALL"],"cat":"chemical","img":"20210508_cef48f.jpg","soldout":true},
-  {"id":383,"name":"名もなきシリーズ　撥水シャンプー2700ml 【名もなき】【リアル】","code":"20095-d","price":14080,"models":["ALL"],"cat":"chemical","img":"20210508_e2df1f.jpg"},
-  {"id":382,"name":"名もなきシリーズ　撥水シャンプー720ml 【名もなき】【リアル】","code":"20095-a","price":9900,"models":["ALL"],"cat":"chemical","img":"20210508_1e770b.jpg","soldout":true},
+  {"id":384,"name":"名もなきシリーズ　180ml完璧5本セット　施工キット付き【名もなき】【GBR】","code":"20095-9","price":18700,"models":["ALL"],"cat":"chemical","img":"20210508_cef48f.jpg","soldout":true},
+  {"id":383,"name":"名もなきシリーズ　撥水シャンプー2700ml 【名もなき】【GBR】","code":"20095-d","price":14080,"models":["ALL"],"cat":"chemical","img":"20210508_e2df1f.jpg"},
+  {"id":382,"name":"名もなきシリーズ　撥水シャンプー720ml 【名もなき】【GBR】","code":"20095-a","price":9900,"models":["ALL"],"cat":"chemical","img":"20210508_1e770b.jpg","soldout":true},
   {"id":381,"name":"フロントサイドリップカバー 【VN】【GT-DRY】","code":"st656","price":36400,"models":["VN"],"cat":"gtdry","img":"20210708_eb4cd9.jpg","soldout":true},
   {"id":380,"name":"Aピラーカバー【VN/VB】【GT-DRY】","code":"st645","price":22100,"models":["VN","VB"],"cat":"gtdry","img":"20250215_854fba.jpg","soldout":true},
   {"id":379,"name":"キーホールカバー 【SK】【GT-DRY】","code":"key-hole-cover-569d-foresk","price":3265,"models":["SK"],"cat":"gtdry","img":"20210420_8aa6e8.jpg","soldout":true},
