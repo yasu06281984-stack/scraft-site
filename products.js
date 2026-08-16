@@ -1,4 +1,4 @@
-/* auto-generated: 2026-08-09T18:51:09.257Z / 717 products */
+/* auto-generated: 2026-08-16T18:34:49.102Z / 717 products */
 const SHOP_BASE = "https://www.frp-craft.shop";
 const MODELS = [
  {
@@ -766,7 +766,7 @@ const PRODUCTS = [
   {"id":397,"name":"フォグランプカバー 【VA】【GT-DRY】","code":"st650","price":57200,"models":["VA"],"cat":"gtdry","img":"20210516_eb3178.jpg","soldout":true},
   {"id":396,"name":"フォグランプカバー 【VA】【GT-DRY】","code":"st628","price":57200,"models":["VA"],"cat":"gtdry","img":"20210515_f6552e.jpg","soldout":true},
   {"id":395,"name":"ＮＥＮＣスポーツセレクター【VA/VM/SK/SJ/GJ/GP/GK/GT】【NENC】","code":"20091","price":115500,"models":["VM","VA","GKGT","GJGP","SK"],"cat":"goods","img":"20210508_180674.jpg"},
-  {"id":394,"name":"S-craft オリジナルＴシャツ","code":"20079","price":3190,"models":["ALL"],"cat":"goods","img":"20210508_5f723e.jpg","soldout":true},
+  {"id":394,"name":"S-craft オリジナルＴシャツ","code":"20079","price":3190,"models":["ALL"],"cat":"goods","img":"20210508_5f723e.jpg"},
   {"id":393,"name":"シートベルトパット（S-CRAFTロゴ入り）","code":"20093","price":3850,"models":["ALL"],"cat":"goods","img":"20210508_3f106d.jpg"},
   {"id":384,"name":"名もなきシリーズ　180ml完璧5本セット　施工キット付き【名もなき】【GBR】","code":"20095-9","price":18700,"models":["ALL"],"cat":"chemical","img":"20210508_cef48f.jpg","soldout":true},
   {"id":383,"name":"名もなきシリーズ　撥水シャンプー2700ml 【名もなき】【GBR】","code":"20095-d","price":14080,"models":["ALL"],"cat":"chemical","img":"20210508_e2df1f.jpg"},
