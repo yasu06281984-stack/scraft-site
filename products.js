@@ -1,4 +1,4 @@
-/* auto-generated: 2026-08-16T18:34:49.102Z / 717 products */
+/* auto-generated: 2026-08-23T18:39:23.355Z / 716 products */
 const SHOP_BASE = "https://www.frp-craft.shop";
 const MODELS = [
  {
@@ -246,7 +246,6 @@ const PRODUCTS = [
   {"id":967,"name":"【新品】リアハーフスポイラー 【BM】","code":"20030","price":75240,"models":["BMBR"],"cat":"used","img":"20250529_42345b.jpg"},
   {"id":966,"name":"キーホールカバー 【SL】【GT-DRY】","code":"key-hole-cov-569c-sfl-","price":3265,"models":["SL"],"cat":"gtdry","img":"20250422_670546.jpg","soldout":true},
   {"id":965,"name":"ドアチェッカーボルトカバー 【SK】【GT-DRY】","code":"dclbcov-sfk-171-sbl-4p","price":1760,"models":["SK"],"cat":"gtdry","img":"20250422_3a0e29.jpg"},
-  {"id":964,"name":"ドアチェッカーカバー 【VB/VN/SL/GU】【GT-DRY】","code":"door-hinge-nis-sfl-4p","price":1760,"models":["VN","VB","GU","SL"],"cat":"gtdry","img":"20250422_e75381.jpg"},
   {"id":963,"name":"エンジンスタートボタンカバー 【SL】【GT-DRY】","code":"engine-btcov-su-sfl-","price":4535,"models":["SL"],"cat":"gtdry","img":"20250422_0f1e56.jpg","soldout":true},
   {"id":962,"name":"キーホールカバー 【ZD8】【GT-DRY】","code":"key-hole-cover-569d-brzzd8","price":3265,"models":["ZD8ZN8"],"cat":"gtdry","img":"20220414_0ad93b.jpg","soldout":true},
   {"id":961,"name":"グランドエフェクトスポイラー Type-SII 【VA/VM】","code":"20110","price":57200,"models":["VM","VA"],"cat":"side","img":"20250422_f30fb8.jpg","lead":"S","soldout":true},
@@ -630,7 +629,7 @@ const PRODUCTS = [
   {"id":542,"name":"エンジンスタートボタンカバー 【ZD8/ZN8】【GT-DRY】","code":"enginestart-btcover-brzzd-","price":4535,"models":["ZD8ZN8"],"cat":"gtdry","img":"20220421_279064.jpg","soldout":true},
   {"id":541,"name":"ドアストライカーカバー 【汎用】【GT-DRY】","code":"agd-door-lock-cover-4pcs","price":1510,"models":["ALL"],"cat":"gtdry","img":"20220421_7a2872.jpg"},
   {"id":540,"name":"ドアチェッカーカバー 【ZC/ZD/ZN/VA/VM/GT/GK/GJ/GP/SJ/SK/BM/BR】【GT-DRY】","code":"agd-door-hingecover","price":1518,"models":["ZD8ZN8","ZC6ZN6","VM","VA","GKGT","GJGP","BMBR","SK","SJ"],"cat":"gtdry","img":"20220421_37b9fc.jpg","soldout":true},
-  {"id":539,"name":"ドアチェッカーカバー 【VN/VB/GU】【GT-DRY】","code":"agd-door-hinge-su","price":1760,"models":["VN","VB","GU"],"cat":"gtdry","img":"20220420_f6de63.jpg","soldout":true},
+  {"id":539,"name":"ドアチェッカーカバー 【VN/VB/GU/SL】【GT-DRY】","code":"agd-door-hinge-su","price":1760,"models":["VN","VB","GU","SL"],"cat":"gtdry","img":"20220420_f6de63.jpg","soldout":true},
   {"id":538,"name":"ドアラッチボルトカバー 【汎用】【GT-DRY】","code":"agd-bolt-cover","price":1268,"models":["ALL"],"cat":"gtdry","img":"20220419_ee9747.jpg","soldout":true},
   {"id":537,"name":"トランクガード 【VN】【GT-DRY】","code":"tg-slvn-007","price":7527,"models":["VN"],"cat":"gtdry","img":"20220419_0d58a3.jpg","soldout":true},
   {"id":536,"name":"トランクガード 【GK/GT】【GT-DRY】","code":"tg-sx-006","price":7527,"models":["GKGT"],"cat":"gtdry","img":"20220419_f09f2a.jpg","soldout":true},
@@ -766,7 +765,7 @@ const PRODUCTS = [
   {"id":397,"name":"フォグランプカバー 【VA】【GT-DRY】","code":"st650","price":57200,"models":["VA"],"cat":"gtdry","img":"20210516_eb3178.jpg","soldout":true},
   {"id":396,"name":"フォグランプカバー 【VA】【GT-DRY】","code":"st628","price":57200,"models":["VA"],"cat":"gtdry","img":"20210515_f6552e.jpg","soldout":true},
   {"id":395,"name":"ＮＥＮＣスポーツセレクター【VA/VM/SK/SJ/GJ/GP/GK/GT】【NENC】","code":"20091","price":115500,"models":["VM","VA","GKGT","GJGP","SK"],"cat":"goods","img":"20210508_180674.jpg"},
-  {"id":394,"name":"S-craft オリジナルＴシャツ","code":"20079","price":3190,"models":["ALL"],"cat":"goods","img":"20210508_5f723e.jpg"},
+  {"id":394,"name":"S-craft オリジナルＴシャツ","code":"20079","price":3190,"models":["ALL"],"cat":"goods","img":"20210508_5f723e.jpg","soldout":true},
   {"id":393,"name":"シートベルトパット（S-CRAFTロゴ入り）","code":"20093","price":3850,"models":["ALL"],"cat":"goods","img":"20210508_3f106d.jpg"},
   {"id":384,"name":"名もなきシリーズ　180ml完璧5本セット　施工キット付き【名もなき】【GBR】","code":"20095-9","price":18700,"models":["ALL"],"cat":"chemical","img":"20210508_cef48f.jpg","soldout":true},
   {"id":383,"name":"名もなきシリーズ　撥水シャンプー2700ml 【名もなき】【GBR】","code":"20095-d","price":14080,"models":["ALL"],"cat":"chemical","img":"20210508_e2df1f.jpg"},
