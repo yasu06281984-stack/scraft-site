@@ -1,4 +1,4 @@
-/* auto-generated: 2026-09-06T20:13:56.823Z / 716 products */
+/* auto-generated: 2026-09-13T20:32:09.094Z / 716 products */
 const SHOP_BASE = "https://www.frp-craft.shop";
 const MODELS = [
  {
