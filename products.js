@@ -1,4 +1,4 @@
-/* auto-generated: 2026-09-20T20:32:05.829Z / 716 products */
+/* auto-generated: 2026-09-27T21:04:40.803Z / 716 products */
 const SHOP_BASE = "https://www.frp-craft.shop";
 const MODELS = [
  {
@@ -709,8 +709,8 @@ const PRODUCTS = [
   {"id":456,"name":"フロントグリル＆エンブレムカバー 【VN】【GT-DRY】","code":"st690-st312-emblem","price":33000,"models":["VN"],"cat":"gtdry","img":"20211214_1485a0.jpg","soldout":true},
   {"id":455,"name":"EFP（エンジンルーム・フェンダー・プロテクター）【VN/VB】【GT-DRY】","code":"st691","price":48400,"models":["VN","VB"],"cat":"gtdry","img":"20250215_50f419.jpg","soldout":true},
   {"id":454,"name":"【中古】リヤウイング【BRZ】","price":50000,"models":["ALL"],"cat":"used","img":"20211209_22c48e.jpg"},
-  {"id":453,"name":"名もなきシリーズ　ガラス撥水剤 お試しボトル【名もなき】【GBR】","code":"20095-11","price":1100,"models":["ALL"],"cat":"chemical","img":"20211029_ed5dc5.jpg"},
-  {"id":452,"name":"名もなきシリーズ　輝くコーティング剤 お試しボトル【名もなき】【GBR】","code":"20095-10","price":1100,"models":["ALL"],"cat":"chemical","img":"20211029_128ecb.jpg"},
+  {"id":453,"name":"名もなきシリーズ　ガラス撥水剤 お試しボトル【名もなき】【GBR】","code":"20095-11","price":1650,"models":["ALL"],"cat":"chemical","img":"20211029_ed5dc5.jpg"},
+  {"id":452,"name":"名もなきシリーズ　輝くコーティング剤 お試しボトル【名もなき】【GBR】","code":"20095-10","price":1650,"models":["ALL"],"cat":"chemical","img":"20211029_128ecb.jpg"},
   {"id":451,"name":"シーケンシャルライナー V3【VA】 【SHINING SPEED】","code":"20084VA","price":55000,"models":["VA"],"cat":"led","img":"20211020_25ad70.jpg"},
   {"id":450,"name":"ドアミラーカバー Type-2【VN/VB】【GT-DRY】","code":"st679","price":34900,"models":["VN","VB"],"cat":"gtdry","img":"20220608_b59ca2.jpg","soldout":true},
   {"id":448,"name":"フォグランプカバー 【VN】【GT-DRY】","code":"st670a","price":57200,"models":["VN"],"cat":"gtdry","img":"20210907_a16bac.jpg","soldout":true},
