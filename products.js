@@ -1,4 +1,4 @@
-/* auto-generated: 2026-10-04T21:05:10.419Z / 716 products */
+/* auto-generated: 2026-10-11T21:38:28.691Z / 717 products */
 const SHOP_BASE = "https://www.frp-craft.shop";
 const MODELS = [
  {
@@ -238,7 +238,8 @@ const CATS = [
  }
 ];
 const PRODUCTS = [
-  {"id":972,"name":"フェンダートリム 【ZD8/ZN8】","code":"20114","price":44000,"models":["ZD8ZN8"],"cat":"fender","img":"20260107_afa933.jpg"},
+  {"id":973,"name":"リヤフェンダートリム 【ZD8/ZN8】","code":"20114R","price":44000,"models":["ZD8ZN8"],"cat":"fender","img":"20261010_eb38fe.jpg","soldout":true},
+  {"id":972,"name":"フロントフェンダートリム 【ZD8/ZN8】","code":"20114F","price":44000,"models":["ZD8ZN8"],"cat":"fender","img":"20260107_ef1f03.jpg"},
   {"id":971,"name":"フェンダートリム前後セット 【ZD8/ZN8】","code":"20114","price":77000,"models":["ZD8ZN8"],"cat":"fender","img":"20260107_afa933.jpg"},
   {"id":970,"name":"マッドガード 【ZD8/ZN8】","code":"20113","price":46200,"models":["ZD8ZN8"],"cat":"rear","img":"20260107_b33e6f.jpg"},
   {"id":969,"name":"サイドスポイラー 【ZD8/ZN8】","code":"20112","price":80300,"models":["ZD8ZN8"],"cat":"side","img":"20260107_ef1f03.jpg"},
